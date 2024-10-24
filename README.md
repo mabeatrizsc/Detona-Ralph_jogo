@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O "Detona Ralph" é um jogo interativo inspirado no famoso personagem de animação. Neste jogo, os jogadores devem clicar em quadrados que aparecem aleatoriamente na tela para ganhar pontos enquanto o tempo conta regressivamente. O objetivo é acumular a maior pontuação possível antes que o tempo acabe.
+O "Detona Ralph" é um jogo interativo inspirado no famoso personagem de animação. Neste jogo, os jogadores devem clicar em quadrados que aparecem aleatoriamente na tela para ganhar pontos enquanto o tempo conta regressivamente. O objetivo é acumular a maior pontuação possível antes que o tempo acabe. Esse jogo foi produzido durante um curso pela plataforma DIO.
 
 ## Tecnologias Utilizadas
 
